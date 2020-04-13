@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a3f94a87-79ce-4048-ad7f-35191f7394b2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/ReposTest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyTestWebsite.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyTestWebsite.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Git App\ReposTest\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aSiMHemGQ8KOiP05ODDZ78Szsh" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a3f94a87-79ce-4048-ad7f-35191f7394b2" name="Default Changelist" comment="" />
+      <created>1586735345074</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586735345074</updated>
+      <workItem from="1586735346418" duration="154000" />
+      <workItem from="1586735517125" duration="652000" />
+      <workItem from="1586736191404" duration="130000" />
+      <workItem from="1586736350081" duration="1196000" />
+      <workItem from="1586740776418" duration="2606000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2106" y="14" key="SettingsEditor" timestamp="1586736513314">
+      <screen x="1920" y="0" width="1366" height="738" />
+    </state>
+    <state x="2106" y="14" key="SettingsEditor/0.0.1280.689/1920.0.1366.738@1920.0.1366.738" timestamp="1586736513314" />
+    <state x="2311" y="196" key="com.intellij.ide.util.TipDialog" timestamp="1586740781820">
+      <screen x="1920" y="0" width="1366" height="738" />
+    </state>
+    <state x="2311" y="196" key="com.intellij.ide.util.TipDialog/0.0.1280.689/1920.0.1366.738@1920.0.1366.738" timestamp="1586740781820" />
+  </component>
+</project>
